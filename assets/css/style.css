@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -103,7 +103,7 @@ p {
 }
 
 
-.social-media-marketing {
+.social-media-marketing, .online-reputation-management, .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,7 +112,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing img {
+.social-media-marketing img, .online-reputation-management img, .search-engine-optimization img {
     max-height: 200px;
 }
 
