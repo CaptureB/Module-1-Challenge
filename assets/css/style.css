@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* This defines the header of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +16,7 @@ body {
     color: #ffffff;
 }
 
+/* This defines the display style, font size and color for .header h1*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +25,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* This defines the parent characteristic for the .headr ul, li elements*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This defines the specifics of the main image on the webpage*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +77,8 @@ p {
     margin-left: 20px;
 }
 
+
+/* This defines the aside portion of the page using sematic HTML elements*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +89,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* This defines the color of the text as well as margin size for individual sections on the aside portion of the page*/
 .benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
@@ -96,6 +100,7 @@ p {
     text-align: center;
 }
 
+/* This defines the display style, the margin px, and max-width px for the specific image*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img  {
     display: block;
     margin: 10px auto;
@@ -111,7 +116,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This defines the img max height as well as font size and margin px size*/
 .social-media-marketing img, .online-reputation-management img, .search-engine-optimization img {
     max-height: 200px;
 }
@@ -121,6 +126,7 @@ p {
     font-size: 36px;
 }
 
+/* This defines the footer of the webpage*/
 .footer {
     padding: 30px;
     clear: both;
